@@ -6,9 +6,11 @@ public class Main {
         System.out.println("Hi");
         System.out.println("branch");
         System.out.println("modify");
+        System.out.println("rebase 1");
         System.out.println("rebase 2");
         System.out.println("rebase 3");
         System.out.println("rebase 5");
         System.out.println("rebase 6");
+        System.out.println("rebase 4");
     }
 }
